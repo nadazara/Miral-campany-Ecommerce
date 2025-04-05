@@ -16,10 +16,11 @@ Business Goals:
 
     Enhance customer experience and retention
 
-2.  Data Sources
-Google BigQuery	  (Real-Time Cloud Data Warehouse	: Sales transactions streamed from the e-commerce platform)
-SQL Server	(Operational Database	: Inventory levels, warehouse operations, shipping updates)
-Amazon S3	(Cloud Object Storage	: Marketing campaign data (semi-real-time CSV updates)
+ Data Sources:
+   
+    Google BigQuery	  (Real-Time Cloud Data Warehouse	: Sales transactions streamed from the e-commerce platform)
+    SQL Server	(Operational Database	: Inventory levels, warehouse operations, shipping updates)
+    Amazon S3	(Cloud Object Storage	: Marketing campaign data (semi-real-time CSV updates)
 
 Data Connection Techniques:
 
