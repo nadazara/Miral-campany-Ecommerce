@@ -2,8 +2,7 @@
 
 Real-Time Sales & Operations Dashboard for E-commerce Performance Monitoring
 
-1.  Business Use Case Study
-
+Business Use Case Study:
 Build a real-time Power BI dashboard that helps sales managers, operations teams, and executives monitor key performance metrics such as GMV , order fulfillment, customer activity, and inventory across multiple regions and product lines.
 
 Problem Statement:
