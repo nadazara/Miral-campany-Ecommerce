@@ -3,7 +3,7 @@
 Real-Time Sales & Operations Dashboard for E-commerce Performance Monitoring
 
 Business Use Case Study:
-Build a real-time Power BI dashboard that helps sales managers, operations teams, and executives monitor key performance metrics such as GMV , order fulfillment, customer activity, and inventory across multiple regions and product lines.
+Leverging from data to build a real-time Power BI dashboard that helps sales managers, operations teams, and executives monitor key performance metrics such as GMV , order fulfillment, customer activity, and inventory across multiple regions and product lines.
 
 Problem Statement:
 The business struggled with delayed reporting and lacked visibility into live sales trends and fulfillment performance. Manual processes led to reactive decisions instead of proactive strategies.
@@ -53,9 +53,9 @@ Methodology & implementation :
 
     1- Clustring sales based on price to leverging for potential in reach to target , mean focus in huge product that achieve target.
     2- Interactive What-If Analysis for Pricing Strategies and how affect in net profit.
-    3- Aggergate numbers and combine Quantitative and qualitative measures 
-    4-
-    5-
+    3- Aggergate numbers and combine Quantitative and qualitative measures .
+    4- correlation analysis : Is low Discount hurting sales ?
+    5- Causal Relationship and statistical models.
     
 Analysis and Insights
 
@@ -69,11 +69,12 @@ Analysis and Insights
 Recommendation & conclusion :
 
     The analysis highlights key revenue drivers and underperforming areas, providing a strategic roadmap for improving sales, customer retention, and campaign effectiveness.
-    1- Focus inventory on high-performing products in top regions.
-    2- Reduce product returns by add more accurate product descriptions & size guides , use real customer photos & reviews , offer live chat to help before purchase and          improve packaging to prevent damage.
+    
+    1- Focus inventory on high-performing products in top regions which is mobile devices.
+    2- Reduce product returns by add more accurate product descriptions & size guides , use real customer photos & reviews , offer live chat to help before purchase and             improve packaging to prevent damage.
     3- Investigate reasons for regional sales drop (e.g., logistics, competition).
     4- Increase discount rate to 2% or waiving discounts.
-    5- 
+    5- Enhanced revenue from successful retention campaigns.
 
 
 
